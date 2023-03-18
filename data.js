@@ -16,7 +16,7 @@ const data =
      "DEF": 60,
      "HeightCm": 175,
      "WeightKg": 73,
-     "DOB": "./Atwi.png"
+     "DOB": "https://yakzancode.github.io/yakzanApisSource/Atwi.png"
     },
     {
      "id": 1,
@@ -11265,7 +11265,7 @@ const data =
      "DRI": 89,
      "DEF": 43,
      "HeightCm": 175,
-     "WeightKg": 73,
+     "Img": "https://yakzancode.github.io/IMAGES/jesus.png",
      "DOB": "1997-04-03"
     },
     {
