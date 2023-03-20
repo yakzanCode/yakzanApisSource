@@ -33,7 +33,7 @@ const data =
      "DRI": 96,
      "DEF": 60,
      "HeightCm": 173,
-     "Img": 70,
+     "Img": "https://cdn.futbin.com/content/fifa21/img/players/p246525.png",
      "DOB": "1940-10-23"
     },
     {
@@ -1264,7 +1264,7 @@ const data =
      "id": 78,
      "PlayerName": "Pelé",
      "Rating": 91,
-     "Club": "FUT ICONS",
+     "Club": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png",
      "Nation": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png",
      "League": "ICN",
      "Position": "CF",
