@@ -1,7 +1,7 @@
 const data = 
 [
     {
-     "id": 1,
+     "id": 0,
      "PlayerName": "Atwi",
      "Rating": 99,
      "Club": "https://upload.wikimedia.org/wikipedia/de/thumb/0/04/Nejmeh.svg/1200px-Nejmeh.svg.png",
@@ -22,8 +22,8 @@ const data =
      "id": 1,
      "PlayerName": "Pelé",
      "Rating": 98,
-     "Club": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png.svg/1200px-Flag_of_https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png.svg.png",
-     "Nation": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png.svg/1200px-Flag_of_https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png.svg.png",
+     "Club": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png",
+     "Nation": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png",
      "League": "ICN",
      "Position": "CAM",
      "PAC": 95,
